@@ -1,0 +1,5 @@
+{
+  "name": "AI Trip Planner",
+  "description": "An intelligent trip planner that suggests travel destinations based on your mood and budget, powered by Gemini.",
+  "requestFramePermissions": []
+}
